@@ -16,8 +16,6 @@ import (
 
 	"github.com/Tech-Gamer/nwy-wings/config"
 	"github.com/Tech-Gamer/nwy-wings/remote"
-	"github.com/Tech-Gamer/nwy-wings/config"
-	"github.com/Tech-Gamer/nwy-wings/remote"
 	"github.com/Tech-Gamer/nwy-wings/server/filesystem"
 )
 
