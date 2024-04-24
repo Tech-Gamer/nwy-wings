@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pterodactyl/wings/internal/ufs"
+	"github.com/Tech-Gamer/nwy-wings/internal/ufs"
 )
 
 type testUnixFS struct {

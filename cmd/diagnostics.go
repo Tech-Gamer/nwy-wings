@@ -166,7 +166,7 @@ func diagnosticsCmdRun(*cobra.Command, []string) {
 
 	printHeader(output, "Latest Wings Logs")
 	if diagnosticsArgs.IncludeLogs {
-		p := "/var/log/pterodactyl/wings.log"
+		p := "/var/log/Tech-Gamer/nwy-wings.log"
 		if cfg != nil {
 			p = path.Join(cfg.System.LogDirectory, "wings.log")
 		}
